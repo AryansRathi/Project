@@ -1,0 +1,147 @@
+/* screen - pofessor-search */
+
+.pofessor-search {
+  background-color: transparent;
+  height: 900px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.pofessor-search .pofessorsearch-8MDH7w {
+  background-color: transparent;
+  height: 900px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.pofessor-search .search-button-8MDH7w {
+  background-color: transparent;
+  height: 87px;
+  left: 580px;
+  position: absolute;
+  top: 537px;
+  width: 282px;
+}
+
+
+.pofessor-search .search-B8Qbx0 {
+  background-color: transparent;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: auto;
+}
+
+.pofessor-search .frame-43-8MDH7w {
+  background-color: transparent;
+  height: 85px;
+  left: -83px;
+  overflow: hidden;
+  position: absolute;
+  top: 204px;
+  width: 410px;
+}
+
+.pofessor-search .university-name-XEFuIV {
+  background-color: transparent;
+  height: auto;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 303px;
+}
+
+.pofessor-search .frame-62-8MDH7w {
+  background-color: transparent;
+  height: 85px;
+  left: -83px;
+  overflow: hidden;
+  position: absolute;
+  top: 204px;
+  width: 503px;
+}
+
+.pofessor-search .university-name-U51ppP {
+  background-color: transparent;
+  height: auto;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 303px;
+}
+
+.pofessor-search .frame-44-8MDH7w {
+  background-color: transparent;
+  height: 85px;
+  left: 786px;
+  overflow: hidden;
+  position: absolute;
+  top: 199px;
+  width: 515px;
+}
+
+.pofessor-search .country-iZcYli {
+  background-color: transparent;
+  height: auto;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 303px;
+}
+
+.pofessor-search .frame-60-8MDH7w {
+  background-color: var(--lochmara);
+  height: 176px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.pofessor-search .frame-61-8MDH7w {
+  background-color: var(--black);
+  height: 144px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 756px;
+  width: 1440px;
+}
+
+.pofessor-search .whats-app-image-10-19-at-1216-1-8MDH7w {
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 756px;
+  width: 513px;
+}
