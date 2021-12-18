@@ -1,0 +1,281 @@
+/* screen - index */
+
+.index {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.index .overlap-group {
+  height: 566px;
+  position: relative;
+  width: 1440px;
+  z-index: 1;
+}
+
+.index .rectangle-1 {
+  background-color: var(--lochmara);
+  height: 387px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.index .rectangle-2 {
+  background-color: var(--white);
+  height: 16px;
+  left: 551px;
+  position: absolute;
+  top: 35px;
+  width: 586px;
+}
+
+.index .username {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  left: 550px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 174px;
+  width: 255px;
+}
+
+.index .password {
+   color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  left: 886px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 174px;
+  width: 255px;
+}
+
+.index .rectangle-5 {
+  background-color: #fedb00;
+  height: 53px;
+  left: 1232px;
+  position: absolute;
+  top: 201px;
+  width: 128px;
+}
+
+.index .line-1 {
+  height: 4px;
+  left: 544px;
+  position: absolute;
+  top: 285px;
+  width: 709px;
+}
+
+.index .line-2 {
+  height: 4px;
+  left: 544px;
+  position: absolute;
+  top: 297px;
+  width: 709px;
+}
+
+.index .text-2 {
+  left: 884px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 257px;
+}
+
+.index .span-1 {
+  text-decoration: underline;
+}
+
+.index .text-3 {
+  left: 551px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 252px;
+}
+
+.index .ellipse-1 {
+  height: 314px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 382px;
+}
+
+.index .sign-in {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 1253px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 225px;
+  width: 87px;
+}
+
+.index .rectangle-6 {
+  background-color: var(--black);
+  height: 135px;
+  left: 0;
+  position: absolute;
+  top: 387px;
+  width: 1440px;
+}
+
+.index .search-professor {
+  left: 313px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 439px;
+  width: 173px;
+}
+
+.index .text-4 {
+  left: 720px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 439px;
+  width: 173px;
+}
+
+.index .text-5 {
+  left: 1132px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 439px;
+  width: 173px;
+}
+
+.index .rb5-fif-re400x400-1 {
+  height: 94px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 399px;
+  width: 195px;
+}
+
+.index .line-4 {
+  height: 86px;
+  left: 939px;
+  position: absolute;
+  top: 399px;
+  width: 1px;
+}
+
+.index .line-3 {
+  height: 86px;
+  left: 559px;
+  position: absolute;
+  top: 399px;
+  width: 1px;
+}
+
+.index .imgbinhogwarts-ry-series-png-1 {
+  height: 107px;
+  left: 588px;
+  object-fit: cover;
+  position: absolute;
+  top: 399px;
+  width: 113px;
+}
+
+.index .pngwing-1 {
+  height: 202px;
+  left: 968px;
+  object-fit: cover;
+  position: absolute;
+  top: 364px;
+  width: 127px;
+}
+
+.index .text-7 {
+  left: 495px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  width: 696px;
+  z-index: 4;
+}
+
+.index .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 150px;
+  margin-top: 184px;
+  min-width: 1440px;
+  padding: 14px 50px;
+  z-index: 2;
+}
+
+.index .text-6 {
+  color: transparent;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 105px;
+  width: 1003px;
+}
+
+.index .span0 {
+  color: var(--white);
+}
+
+.index .span1 {
+  color: #7f0e0e;
+}
+
+.index .about-us {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-left: 243px;
+  min-height: 29px;
+  text-decoration: underline;
+  width: 71px;
+}
+
+.index .frame-18 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 63px;
+  margin-right: 120.0px;
+  margin-top: 52px;
+  padding: 23px 0;
+  width: 280px;
+  z-index: 3;
+}
+
+.index .place {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 9px;
+  text-align: center;
+  width: 96px;
+}
